@@ -19,7 +19,7 @@ The process is implemented using Bonita BPMN Platform. It includes three main ac
 - Service Finance
 
 ## BPMN diagram
-![DemandeAvance-1 0](https://github.com/chouhlaoui/Bonita/assets/)
+![VacationRequest-1 0](https://github.com/chouhlaoui/Bonita/assets/)
 
 ## Configure Fake SMTP 
 ```
