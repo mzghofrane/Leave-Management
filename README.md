@@ -14,9 +14,7 @@ Automation of the vacation request workflow
 - Simple user interface for employees
 ## Architecture
 The process is implemented using Bonita BPMN Platform. It includes three main actors:
-- Employé
-- Service RH
-- Service Finance
+- Manager
 
 ## BPMN diagram
 ![VacationRequest-1 0](https://github.com/chouhlaoui/Bonita/assets/)
